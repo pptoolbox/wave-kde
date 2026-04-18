@@ -4,10 +4,10 @@ Blur=true
 Opacity=0.95
 
 [Background]
-Color=35,37,46
+Color=32,35,38
 
 [BackgroundIntense]
-Color=35,37,46
+Color=32,35,38
 
 [Foreground]
 Color=255,255,255

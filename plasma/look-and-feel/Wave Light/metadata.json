@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "preetampaul221@gmail.com",
+                "Name": "Preetam Paul"
+            }
+        ],
+        "Description": "Just some modern version of good old breeze.",
+        "Id": "Wave Light",
+        "License": "MIT License",
+        "Name": "Wave Light",
+        "Website": "https://github.com/pptoolbox/wave-kde"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "default"
+}
