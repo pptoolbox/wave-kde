@@ -19,8 +19,8 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=35,37,46
-BackgroundNormal=35, 37, 46
+BackgroundAlternate=32,35,38
+BackgroundNormal=32,35,38
 DecorationFocus=39,119,255
 DecorationHover=39,119,255
 ForegroundActive=74,174,230
@@ -48,7 +48,7 @@ ForegroundVisited=204,204,204
 
 [Colors:Tooltip]
 BackgroundAlternate=51,51,51
-BackgroundNormal=35, 37, 46
+BackgroundNormal=32,35,38
 DecorationFocus=39,119,255
 DecorationHover=43,98,192
 ForegroundActive=74,174,230
@@ -61,8 +61,8 @@ ForegroundPositive=25,161,135
 ForegroundVisited=92,98,108
 
 [Colors:View]
-BackgroundAlternate=35,37,46
-BackgroundNormal=35, 37, 46
+BackgroundAlternate=32,35,38
+BackgroundNormal=32,35,38
 DecorationFocus=39,119,255
 DecorationHover=39,119,255
 ForegroundActive=74,174,230
@@ -75,8 +75,8 @@ ForegroundPositive=25,161,135
 ForegroundVisited=92,98,108
 
 [Colors:Window]
-BackgroundAlternate=35,37,46
-BackgroundNormal=35, 37, 46
+BackgroundAlternate=32,35,38
+BackgroundNormal=32,35,38
 DecorationFocus=39,119,255
 DecorationHover=39,119,255
 ForegroundActive=74,174,230
@@ -94,12 +94,14 @@ Name=Wave Dark
 shadeSortColumn=true
 
 [KDE]
+Contrast=2
 contrast=4
+frameContrast=0.15
 
 [WM]
-activeBackground=35, 37, 46
-activeBlend=35, 37, 46
+activeBackground=32,35,38
+activeBlend=32,35,38
 activeForeground=255,255,255
-inactiveBackground=35, 37, 46
-inactiveBlend=35, 37, 46
+inactiveBackground=32,35,38
+inactiveBlend=32,35,38
 inactiveForeground=120,120,120
