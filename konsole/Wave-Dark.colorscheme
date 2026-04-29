@@ -1,21 +1,16 @@
-[General]
-Description=Wave Dark
-Blur=true
-Opacity=0.95
-
 [Background]
+Color=32,35,38
+
+[BackgroundFaint]
 Color=32,35,38
 
 [BackgroundIntense]
 Color=32,35,38
 
-[Foreground]
-Color=255,255,255
-
-[ForegroundIntense]
-Color=255,255,255
-
 [Color0]
+Color=31,34,41
+
+[Color0Faint]
 Color=31,34,41
 
 [Color0Intense]
@@ -24,10 +19,16 @@ Color=25,131,136
 [Color1]
 Color=212,25,25
 
+[Color1Faint]
+Color=212,25,25
+
 [Color1Intense]
 Color=236,1,1
 
 [Color2]
+Color=94,189,171
+
+[Color2Faint]
 Color=94,189,171
 
 [Color2Intense]
@@ -36,10 +37,16 @@ Color=71,212,185
 [Color3]
 Color=254,164,76
 
+[Color3Faint]
+Color=254,164,76
+
 [Color3Intense]
 Color=255,138,24
 
 [Color4]
+Color=54,123,240
+
+[Color4Faint]
 Color=54,123,240
 
 [Color4Intense]
@@ -48,10 +55,16 @@ Color=39,127,255
 [Color5]
 Color=151,85,179
 
+[Color5Faint]
+Color=151,85,179
+
 [Color5Intense]
 Color=150,42,195
 
 [Color6]
+Color=73,174,230
+
+[Color6Faint]
 Color=73,174,230
 
 [Color6Intense]
@@ -60,5 +73,28 @@ Color=5,161,247
 [Color7]
 Color=230,230,230
 
+[Color7Faint]
+Color=230,230,230
+
 [Color7Intense]
 Color=255,255,255
+
+[Foreground]
+Color=255,255,255
+
+[ForegroundFaint]
+Color=255,255,255
+
+[ForegroundIntense]
+Color=255,255,255
+
+[General]
+Anchor=0.5,0.5
+Blur=false
+ColorRandomization=false
+Description=Wave Dark
+FillStyle=Tile
+Opacity=1
+Wallpaper=
+WallpaperFlipType=NoFlip
+WallpaperOpacity=1
